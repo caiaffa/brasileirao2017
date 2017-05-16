@@ -1,3 +1,7 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+# Autor: lfa
+
 from urllib.request import urlopen
 from bs4 import BeautifulSoup
 
